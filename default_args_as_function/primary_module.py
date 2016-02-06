@@ -16,6 +16,7 @@ def my_function(named_parameter_with_default=default()):
 
 def main():
     my_function()
+    my_function()
 
 
 if __name__ == "__main__":
